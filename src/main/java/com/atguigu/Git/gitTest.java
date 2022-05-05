@@ -20,5 +20,6 @@ public class gitTest {
 
         System.out.println("我是hot-fix分支 ，这是我的提交");
         System.out.println("这是ssh");
+        System.out.println("这是ssh pull");
     }
 }
