@@ -11,5 +11,7 @@ public class gitTest {
 
         System.out.println("我是hot-fix 分支");
         System.out.println("我是hot-fix 分支2");
+
+        System.out.println("xixi ");
     }
 }
