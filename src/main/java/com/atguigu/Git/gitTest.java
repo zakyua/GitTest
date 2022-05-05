@@ -8,5 +8,7 @@ public class gitTest {
     public static void main(String[] args) {
         System.out.println("hello,git");
         System.out.println("hot_fix");
+
+        System.out.println("我是hot-fix 分支");
     }
 }
